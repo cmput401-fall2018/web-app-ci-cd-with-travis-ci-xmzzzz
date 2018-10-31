@@ -6,3 +6,6 @@ install:
   
 script:
   - pytest
+
+addons:
+  firefox: latest
