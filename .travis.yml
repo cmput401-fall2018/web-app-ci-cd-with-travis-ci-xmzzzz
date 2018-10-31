@@ -8,4 +8,4 @@ script:
   - pytest
 
 addons:
-  firefox: latest
+  firefox: "latest"
